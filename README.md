@@ -50,4 +50,4 @@
  | --- |
  | <a href="https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning">Github Secret Scanning</a> |
  | <a href="https://docs.gitlab.com/ee/user/application_security/secret_detection/">Gitlab Secret Detection</a> |
- | <a href="https://secdevtools.azurewebsites.net/helpcredscan.html">Microsoft CredScan</a> |
+ | <a href="https://secdevtools.azurewebsites.net/helpcredscan.html">Microsoft CredScan (Effective March 1, 2022, the Microsoft Security Code Analysis (MSCA) extension will be retired. Existing MSCA customers will retain their access to MSCA through March 1, 2022. Please refer to the OWASP Source Code Analysis Tools for alternative options in Azure DevOps. For customers planning to migrate to GitHub, you can check out GitHub Advanced Security)</a> |
